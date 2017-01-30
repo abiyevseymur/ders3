@@ -1,0 +1,14 @@
+1. Imperative paradigm - s?rti v? s?rtsiz kecidlerin
+2. Functional paradigm - sistem funksionlari teyin eliyir,"nece edecek?" tesvirini bildirir.lakin onu nece lemeyi translator ozu eliyecek.aradicilig ferq etmir.
+3. Logic paradigm - proqram sistemin teyin olunan qaydalar?n novu "s?rti => yeni fakt" 
+4. Object-oriented paradigm ard?c?ll?g? - bir nec? qars?l?ql? f?aliyy?t obyektl?ri, funksional (h?r?k?tl?r) v? m?lumatlar bu obyektl?r aras?nda bolusdurulur
+
+
+   Object Oriented Programming
+   
+1. Object - Konkret bir klassi teqdim edir
+2. Class - Mu?ssis?nin kom?yi il? sinifin(onun xususiyy?tl?ri v? mumkun t?dbirl?r) t?svirini aciqliyir.Meselen: Bir klassin telebeni,mawini ve s. tesvirini gorsedir.Izah etigden sonra biz ekzemplyar yaradiriq yani Obyekt.
+3. Inheritance - Basqa bir baza esasinda yeni klass yaratmaq imkan verir.Bir Inheritance-den yaratmaq v? funksionall?q h?r hans? bir hiss?si tesvirini yoneldire bil?r
+4. Polymorphism - Netice vasit?sil? polimorfizmi Person obyekt novu "Adam Shandorkin Impolitovich" v?  Point obyekti kimi gorunur - el?c? "[84,23 12.61]." Bu onu «Mat1 * Mat2» il? matrix vurma hasili almaq yazmaq ucun imkan verir, vurma hasili normal nomr?l?ri kimi.Onsuz girish steam-dan melumat oxuna bilmez idi.Harda interfeys var,elece polimorfizm -da var.
+5. Abstraction - Abstraksiya yarad?lmas? prosesiò s?viyy?si  insan bilik faktiki olaraq butun novlere aiddir. Bel? ki, biz molekulyar qurulusu ?trafl? daxil davam olmadan, materiallar haqq?nda q?rarlar q?bul ed? bil?rik.  Yoxsa esyanin materiallar? qeyd etm?k deyil, onun haqq?nda dan?smaqdir.  V? ya bel? bir komputer, t?yyar? turbin v? ya insan b?d?nind?, bu seylerin mu?yy?n hiss?l?ri xat?rlamamaq kimi cetin mexanizml?ri haqq?nda dan?smaq.
+6. Encapsulation - sistemin xesseleri,eyni klassda iwlenilen metodlarin ve melumatini birlewmeye imkan yaradir. ve prosessin detallari Interfeysda gostermir, ama realiz edir.
